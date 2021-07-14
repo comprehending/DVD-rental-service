@@ -1,2 +1,2 @@
 # DVD-rental-service
-Analisis fro DVD Rental Company
+Analisis for DVD Rental Company
